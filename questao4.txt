@@ -1,0 +1,10 @@
+//questão 4
+
+
+Na primeira ida, ligar um dos interruptores e o manter ligado por alguns minutos.
+Durante esse tempo, desligar o interruptor que você ligou inicialmente e ligar outro interruptor.
+Em seguida, entre na sala das lâmpadas e observe:
+
+Se a lâmpada estiver acesa, então o último interruptor que você ligou controla essa lâmpada.
+Se a lâmpada estiver apagada e sentir calor ao tocar, então o primeiro interruptor que você ligou controla essa lâmpada.
+Se a lâmpada estiver apagada e fria ao tocar, então o interruptor que você deixou desligado controla essa lâmpada.
